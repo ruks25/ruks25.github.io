@@ -2,13 +2,13 @@ var JerryImg, TomImg, Tom, Jerry;
 var JerryRun, TomRest, Garden, GardenImg, taunt;
 function preload() {
     //load the images here
-    JerryImg = loadImage('images/mouse4.png');
-    TomImg = loadImage('images/cat1.png');
-    GardenImg = loadImage('images/garden.png');
-    JerryRun = loadImage('images/mouse1.png');
-    GardenImg = loadImage('images/garden.png');
-    tauntImg = loadImage('images/mouse3.png');
-    TomRest = loadImage('images/cat2.png')
+    JerryImg = loadImage('mouse4.png');
+    TomImg = loadImage('cat1.png');
+    GardenImg = loadImage('/arden.png');
+    JerryRun = loadImage('mouse1.png');
+    GardenImg = loadImage('garden.png');
+    tauntImg = loadImage('mouse3.png');
+    TomRest = loadImage('cat2.png')
 }
 
 function setup(){
