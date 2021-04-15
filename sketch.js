@@ -4,7 +4,7 @@ function preload() {
     //load the images here
     JerryImg = loadImage('mouse4.png');
     TomImg = loadImage('cat1.png');
-    GardenImg = loadImage('/arden.png');
+    GardenImg = loadImage('garden.png');
     JerryRun = loadImage('mouse1.png');
     GardenImg = loadImage('garden.png');
     tauntImg = loadImage('mouse3.png');
